@@ -22,4 +22,4 @@ A dedicated student enrolled in the Software Engineering program at Daffodil Int
 
 - 📫 How to reach me **syedhamim10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Vc1kZBuyWlCowl38RKE4x0Ssv7xZvRnC/view?usp=sharing](https://drive.google.com/file/d/1Vc1kZBuyWlCowl38RKE4x0Ssv7xZvRnC/view?usp=sharing)
+- 📄 Know about my experiences [http://bit.ly/3VCxreY](http://bit.ly/3VCxreY)
