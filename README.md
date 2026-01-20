@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Syed Hamim An Nafis</h1>
-<h3 align="left">Software Engineer | Data Scientist | Python/Java Developer</h3>
+<h3 align="left">Software Quality Assurance Trainee @ Brainstation-23 | Python/Java Developer | Youtuber</h3>
 
 🏠 Residence : Mirpur, Dhaka
 
